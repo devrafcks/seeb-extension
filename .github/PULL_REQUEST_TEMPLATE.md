@@ -30,7 +30,7 @@ Se este PR resolve ou está ligado a alguma **issue existente**, mencione-a aqui
 
 Forneça instruções simples para que os revisores possam testar suas alterações.
 
-## Evidências Visuais (Opcional)
+## Demonstração Visual (Opcional)
 
 Se houver mudanças na interface ou algo visual, adicione **imagens** para demonstrar.
 

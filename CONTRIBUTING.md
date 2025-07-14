@@ -6,7 +6,7 @@ Olá! Agradecemos imensamente seu interesse em contribuir para o Seeb. Esta exte
 
 ## 🤝 Nosso Código de Conduta
 
-Para garantir um ambiente de colaboração respeitoso e acolhedor para todos, exigimos que todos os contribuidores sigam o nosso [Código de Conduta](../CODE_OF_CONDUCT.md). Sua participação implica na concordância com os princípios estabelecidos neste documento.
+Para garantir um ambiente de colaboração respeitoso e acolhedor para todos, exigimos que todos os contribuidores sigam o nosso [Código de Conduta](./CODE_OF_CONDUCT.md). Sua participação implica na concordância com os princípios estabelecidos neste documento.
 
 ---
 
@@ -14,8 +14,8 @@ Para garantir um ambiente de colaboração respeitoso e acolhedor para todos, ex
 
 Você pode contribuir com o Seeb de diversas maneiras, mesmo sem experiência aprofundada em codificação:
 
-* **Reportar Bugs:** Ajude-nos a identificar e corrigir comportamentos inesperados utilizando nosso [Template de Relatório de Bug](./ISSUE_TEMPLATE/bug_report.md).
-* **Sugerir Novas Funcionalidades:** Compartilhe suas ideias para aprimorar o Seeb utilizando nosso [Template de Solicitação de Funcionalidade](./ISSUE_TEMPLATE/feature_request.md).
+* **Reportar Bugs:** Ajude-nos a identificar e corrigir comportamentos inesperados utilizando nosso [Template de Relatório de Bug](./.github/ISSUE_TEMPLATE/bug_report.md).
+* **Sugerir Novas Funcionalidades:** Compartilhe suas ideias para aprimorar o Seeb utilizando nosso [Template de Solicitação de Funcionalidade](./.github/ISSUE_TEMPLATE/feature_request.md).
 * **Melhorar o Código:** Contribuindo com novas funcionalidades, corrigindo problemas existentes ou otimizando o código.
 * **Atualizar a Documentação:** Aprimorando a clareza, corrigindo informações ou adicionando novos guias e exemplos.
 * **Otimizar Design e Experiência do Usuário (UI/UX):** Propondo e implementando melhorias visuais e de interação.
@@ -110,7 +110,7 @@ Após finalizar suas alterações e testes:
     git push origin sua-branch-aqui
     ```
 3.  **Abra um Pull Request:** Acesse a página do seu fork no GitHub e clique em "New pull request" ou "Compare & pull request".
-4.  **Preencha o Template:** Utilize o nosso **[template de Pull Request](./PULL_REQUEST_TEMPLATE.md)**, que será carregado automaticamente, para descrever suas alterações de forma clara e completa.
+4.  **Preencha o Template:** Utilize o nosso **[template de Pull Request](./.github/PULL_REQUEST_TEMPLATE.md)**, que será carregado automaticamente, para descrever suas alterações de forma clara e completa.
 5.  **Aguarde a Revisão:** Seu PR será revisado pelos mantenedores do projeto. Esteja aberto(a) a feedbacks e sugestões de melhoria o objetivo é sempre aprimorar o Seeb juntos!
 
 ---

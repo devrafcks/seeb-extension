@@ -26,7 +26,7 @@
       <sub><b>Massiel Condori</b></sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px" style="border-radius: 50%;" alt="Imagem genérica de perfil de Maria Eduarda" />
+      <img src="https://github.com/madumarques.png" width="100px" style="border-radius: 50%;" alt="Imagem genérica de perfil de Maria Eduarda" />
       <br />
       <sub><b>Maria Eduarda</b></sub>
     </td>

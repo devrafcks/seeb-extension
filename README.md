@@ -8,44 +8,36 @@
 
 ## Equipe Desenvolvedora
 
-
 <table>
   <tr>
     <td align="center" valign="top">
-      <a href="https://github.com/devrafcks">
-        <img src="https://github.com/devrafcks.png" width="100px" style="border-radius: 50%;" alt="Foto de perfil de Rafael Blanco" />
-        <br />
-        <sub><b>Rafael Blanco</b></sub>
-      </a>
+      <img src="https://github.com/devrafcks.png" width="100px" style="border-radius: 50%;" alt="Foto de perfil de Rafael Blanco" />
+      <br />
+      <sub><b>Rafael Blanco</b></sub>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/beh-cwmi">
-        <img src="https://github.com/beh-cwmi.png" width="100px" style="border-radius: 50%;" alt="Foto de perfil de Belinda Camila" />
-        <br />
-        <sub><b>Belinda Camila</b></sub>
-      </a>
+      <img src="https://github.com/beh-cwmi.png" width="100px" style="border-radius: 50%;" alt="Foto de perfil de Belinda Camila" />
+      <br />
+      <sub><b>Belinda Camila</b></sub>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/Mahh-cq">
-        <img src="https://github.com/Mahh-cq.png" width="100px" style="border-radius: 50%;" alt="Foto de perfil de Massiel Condori" />
-        <br />
-        <sub><b>Massiel Condori</b></sub>
-      </a>
+      <img src="https://github.com/Mahh-cq.png" width="100px" style="border-radius: 50%;" alt="Foto de perfil de Massiel Condori" />
+      <br />
+      <sub><b>Massiel Condori</b></sub>
     </td>
     <td align="center" valign="top">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px" style="border-radius: 50%;" alt="Imagem genérica de perfil de Maria Eduarda" />
-        <br />
-        <sub><b>Maria Eduarda</b></sub>
-      </a>
+      <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px" style="border-radius: 50%;" alt="Imagem genérica de perfil de Maria Eduarda" />
+      <br />
+      <sub><b>Maria Eduarda</b></sub>
     </td>
     <td align="center" valign="top">
       <img src="https://github.com/devrafcks/seeb-extension/blob/main/icons/icon-128.png?raw=true" width="100px" alt="Mascote do projeto SeeB" />
       <br />
-      <sub><b>Seeby</b><br /><i>Mascote do projeto</i></sub>
+      <sub><b>SeeB</b><br /><i>Mascote do projeto</i></sub>
     </td>
   </tr>
 </table>
+
 
 ## Sobre o Projeto
 

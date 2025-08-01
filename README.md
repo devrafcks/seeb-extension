@@ -1,63 +1,108 @@
-# SeeB – Extensão de Acessibilidade para Navegadores
-
-> Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) no curso técnico em Informática para Internet da ETEC Parque Belém.
-
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/devrafcks/seeb-extension)
 [![Versão](https://img.shields.io/badge/versão-1.0.0-blueviolet)](https://github.com/devrafcks/seeb-extension/releases)
 [![Licença MIT](https://img.shields.io/badge/licença-MIT-green)](LICENSE)
 
+# SeeB – Extensão de Acessibilidade para Navegadores
+
+> Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) no curso técnico em Informática para Internet da ETEC Parque Belém.
+
+## Equipe Desenvolvedora
+
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/devrafcks">
+        <img src="https://github.com/devrafcks.png" width="100px" style="border-radius: 50%;" alt="Foto de perfil de Rafael Blanco" />
+        <br />
+        <sub><b>Rafael Blanco</b></sub>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/beh-cwmi">
+        <img src="https://github.com/beh-cwmi.png" width="100px" style="border-radius: 50%;" alt="Foto de perfil de Belinda Camila" />
+        <br />
+        <sub><b>Belinda Camila</b></sub>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Mahh-cq">
+        <img src="https://github.com/Mahh-cq.png" width="100px" style="border-radius: 50%;" alt="Foto de perfil de Massiel Condori" />
+        <br />
+        <sub><b>Massiel Condori</b></sub>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px" style="border-radius: 50%;" alt="Imagem genérica de perfil de Maria Eduarda" />
+        <br />
+        <sub><b>Maria Eduarda</b></sub>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/devrafcks/seeb-extension/blob/main/icons/icon-128.png?raw=true" width="100px" alt="Mascote do projeto SeeB" />
+      <br />
+      <sub><b>Seeby</b><br /><i>Mascote do projeto</i></sub>
+    </td>
+  </tr>
+</table>
+
 ## Sobre o Projeto
 
-O projeto **SeeB** tem como objetivo principal o desenvolvimento de uma extensão para navegadores voltada à melhoria da acessibilidade na web. A proposta visa permitir que usuários com deficiência ou limitações visuais tenham uma experiência digital mais inclusiva e autônoma.
+**SeeB** é uma extensão open source para navegadores que injeta um painel de acessibilidade dinâmico em qualquer site, promovendo a inclusão digital de forma prática e acessível.  
 
-A ferramenta é gratuita, de código aberto, e oferece funcionalidades como ajuste de contraste, ampliação de fontes, leitura de texto por voz e simplificação de interfaces. Será compatível com os principais navegadores, como Google Chrome, Opera GX e Microsoft Edge.
+A ferramenta oferece funcionalidades como:
+- **Ajuste de contraste**
+- **Filtros de daltonismo**
+- **Aumento de fontes**
+- **Modo de foco para TDAH**
 
-Além de promover a inclusão digital, o projeto busca validar sua eficiência por meio de testes de usabilidade e refinar continuamente suas funcionalidades com base no retorno da comunidade.
+É compatível com navegadores que aceitam extensões da Chrome Web Store, como **Google Chrome**, **Opera GX** e **Microsoft Edge**.
 
-## Objetivos do Projeto
+## Objetivos
 
-**Objetivo Geral:**
-- Desenvolver uma extensão para navegadores que melhore a acessibilidade na web, proporcionando uma navegação mais inclusiva para pessoas com deficiência ou limitações visuais.
+**Objetivo Geral**  
+Desenvolver uma extensão de navegador que promova a acessibilidade digital, facilitando a navegação para pessoas com deficiência visual, neurodivergência ou dificuldades de leitura.
 
-**Objetivos Específicos:**
-- Disponibilizar uma solução gratuita, intuitiva e de fácil uso, sem exigir conhecimento técnico prévio.
-- Promover a inclusão digital e o acesso equitativo à informação para um público mais amplo.
+**Objetivos Específicos**
+- Oferecer uma solução gratuita, intuitiva e de fácil instalação.
+- Ampliar o acesso à informação por meio de uma ferramenta open source.
+- Incentivar a adoção de práticas inclusivas no desenvolvimento web.
+
 
 ## Tecnologias Utilizadas
 
 | Tecnologia | Finalidade |
 |------------|------------|
-| HTML5 & CSS3 | Estruturação e estilização da interface da extensão |
-| JavaScript (ES6+) | Lógica e interação da extensão com a página |
-| Chrome Extensions (Manifest V3) |  arquitetura da extensão |
+| HTML5 & CSS3 | Estruturação e estilização da interface |
+| JavaScript (ES6+) | Lógica e manipulação da página |
+| Manifest V3 | Arquitetura da extensão para navegadores |
 | Git & GitHub | Controle de versão e colaboração |
 | Vercel | Hospedagem da landing page |
 
-## Status do Projeto
-
-Atualmente, o projeto encontra-se em **fase de desenvolvimento**, com funcionalidades iniciais implementadas e testes em andamento. A publicação na Chrome Web Store está prevista para breve.
 
 ## Como Contribuir
 
-Contribuições são bem-vindas! Para colaborar:
+Contribuições são bem-vindas! Para participar:
 
-- [Abra uma issue](https://github.com/devrafcks/seeb-extension/issues) para reportar bugs ou sugerir melhorias.
-- [Crie um Pull Request](https://github.com/devrafcks/seeb-extension/pulls) com correções ou novas funcionalidades.
-- Consulte as diretrizes no arquivo [`CONTRIBUTING.md`](CONTRIBUTING.md).
+- [Abra uma issue](https://github.com/devrafcks/seeb-extension/issues) com bugs ou sugestões
+- [Crie um Pull Request](https://github.com/devrafcks/seeb-extension/pulls)
+- Leia as diretrizes em [`CONTRIBUTING.md`](CONTRIBUTING.md)
 
-## Licença
 
-Este projeto está licenciado sob os termos da [Licença MIT](LICENSE). Isso significa que você pode usá-lo, modificá-lo e distribuí-lo livremente, desde que preserve os créditos aos autores.
-
-## Colaboradores
+## Contribuidores do Repositório
 
 <a href="https://github.com/devrafcks/seeb-extension/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=devrafcks/seeb-extension" alt="Colaboradores do projeto" />
+  <img src="https://contrib.rocks/image?repo=devrafcks/seeb-extension" alt="Contribuidores do projeto" />
 </a>
+
 
 ## Agradecimentos
 
-Agradecemos aos professores da **ETEC Parque Belém**, à comunidade open-source e a todos os envolvidos no apoio e orientação deste trabalho. Este projeto representa um passo em direção a uma web mais acessível, inclusiva e democrática.
+Agradecemos à **ETEC Parque Belém**, à comunidade open-source e a todos que contribuíram direta ou indiretamente para a realização deste projeto. O SeeB é mais do que uma extensão  é um passo em direção a uma web verdadeiramente acessível.
 
----
 
+
+## Licença
+
+Este projeto está sob a [Licença MIT](LICENSE). Você pode utilizá-lo, modificá-lo e distribuí-lo livremente, desde que mantenha os devidos créditos.

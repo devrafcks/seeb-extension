@@ -22,7 +22,7 @@ Você pode contribuir com o Seeb de diversas maneiras, mesmo sem experiência ap
 
 ---
 
-## ⚙️ Configuração do Ambiente de Desenvolvimento
+## Configuração do Ambiente de Desenvolvimento
 
 Para começar a contribuir com código, siga estes passos para configurar seu ambiente:
 
@@ -48,7 +48,7 @@ Para começar a contribuir com código, siga estes passos para configurar seu am
 
 ---
 
-## 🧱 Onde Codificar
+## Onde Codificar
 
 Suas alterações de código deverão ser feitas, preferencialmente, nas seguintes pastas:
 
